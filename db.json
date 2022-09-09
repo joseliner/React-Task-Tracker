@@ -7,9 +7,9 @@
       "reminder": true
     },
     {
-      "id": 2,
-      "text": "Meeting at Library",
-      "day": "Feb 6th at 1:00pm",
+      "id": 3,
+      "text": "Food Shopping",
+      "day": "Feb 7th at 8:30am",
       "reminder": true
     }
   ]
